@@ -37,7 +37,7 @@ The Headline Sentiment Analysis script is a Python program that performs sentime
 7. Run the script using the following command:
 
    ```shell
-   python script.py
+   python cumulativesentiment.py
 
 8. The script will process the headlines and display the sentiment analysis results.
 Note
